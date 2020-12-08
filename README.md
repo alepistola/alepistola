@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m a Applied Computer Science student, currently working on my bachelor thesis about ML
+- 👯 I’m looking to collaborate on interesting and challenging IT projects
+- 📫 How to reach me: pistola.alessandro@virgilio.it
+
